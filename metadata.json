@@ -1,0 +1,5 @@
+{
+  "name": "Copy_PreCare",
+  "description": "PreCare is a friendly and professional pre-appointment intake assistant for medical clinics. It collects essential patient information, asks context-aware medical questions, and generates a short summary for the doctor, along with simple self-care advice for the patient.",
+  "requestFramePermissions": []
+}
