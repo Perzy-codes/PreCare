@@ -2,6 +2,8 @@
 
 PreCare is a modern, AI-powered web application designed to streamline the pre-appointment intake process for medical clinics. It intelligently collects patient information, asks context-aware medical questions, and generates a concise summary for the doctor, along with helpful self-care tips for the patient.
 
+Deployed Link: https://precare-598438118715.us-west1.run.app/
+
 ## ✨ Features
 
 - **Dual User Roles:** Separate, secure interfaces for Patients and Doctors.
